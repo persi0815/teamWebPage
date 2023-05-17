@@ -14,6 +14,9 @@
     <loc>https://persi0815.github.io/teamWebPage1/blog/2021/08/01/categories-post/</loc>
     <lastmod>2021-08-01T21:29:20+02:00</lastmod>
   </url><url>
+    <loc>https://persi0815.github.io/teamWebPage1/linux/categories-post/</loc>
+    <lastmod>2021-08-01T21:29:20+02:00</lastmod>
+  </url><url>
     <loc>https://persi0815.github.io/teamWebPage1/tags/golang/</loc>
     <lastmod>2021-08-01T21:29:20+02:00</lastmod>
   </url><url>
@@ -21,6 +24,9 @@
     <lastmod>2021-08-01T21:29:20+02:00</lastmod>
   </url><url>
     <loc>https://persi0815.github.io/teamWebPage1/authors/john-doe/</loc>
+    <lastmod>2021-08-01T21:29:20+02:00</lastmod>
+  </url><url>
+    <loc>https://persi0815.github.io/teamWebPage1/linux/</loc>
     <lastmod>2021-08-01T21:29:20+02:00</lastmod>
   </url><url>
     <loc>https://persi0815.github.io/teamWebPage1/categories/lorem/</loc>
@@ -50,16 +56,28 @@
     <loc>https://persi0815.github.io/teamWebPage1/blog/2015/10/02/linked-post/</loc>
     <lastmod>2015-10-02T21:49:20+02:00</lastmod>
   </url><url>
+    <loc>https://persi0815.github.io/teamWebPage1/linux/linked-post/</loc>
+    <lastmod>2015-10-02T21:49:20+02:00</lastmod>
+  </url><url>
     <loc>https://persi0815.github.io/teamWebPage1/tags/go/</loc>
     <lastmod>2015-09-17T13:47:08+02:00</lastmod>
   </url><url>
     <loc>https://persi0815.github.io/teamWebPage1/blog/2015/09/17/go-is-for-lovers/</loc>
     <lastmod>2015-09-17T13:47:08+02:00</lastmod>
   </url><url>
+    <loc>https://persi0815.github.io/teamWebPage1/linux/go-is-for-lovers/</loc>
+    <lastmod>2015-09-17T13:47:08+02:00</lastmod>
+  </url><url>
     <loc>https://persi0815.github.io/teamWebPage1/blog/2015/08/03/hugo-is-for-lovers/</loc>
     <lastmod>2015-08-03T13:39:46+02:00</lastmod>
   </url><url>
+    <loc>https://persi0815.github.io/teamWebPage1/linux/hugo-is-for-lovers/</loc>
+    <lastmod>2015-08-03T13:39:46+02:00</lastmod>
+  </url><url>
     <loc>https://persi0815.github.io/teamWebPage1/blog/2015/06/24/creating-a-new-theme/</loc>
+    <lastmod>2015-06-24T13:50:46+02:00</lastmod>
+  </url><url>
+    <loc>https://persi0815.github.io/teamWebPage1/linux/creating-a-new-theme/</loc>
     <lastmod>2015-06-24T13:50:46+02:00</lastmod>
   </url><url>
     <loc>https://persi0815.github.io/teamWebPage1/categories/starting/</loc>
@@ -72,5 +90,7 @@
     <loc>https://persi0815.github.io/teamWebPage1/tags/ipsum/</loc>
   </url><url>
     <loc>https://persi0815.github.io/teamWebPage1/blog/1/01/01/migrate-from-jekyll/</loc>
+  </url><url>
+    <loc>https://persi0815.github.io/teamWebPage1/linux/migrate-from-jekyll/</loc>
   </url>
 </urlset>
