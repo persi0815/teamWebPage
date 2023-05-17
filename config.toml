@@ -78,7 +78,6 @@ pluralizelisttitles = false
     url        = "/git/"
     weight     = 4
 
-
 [[menu.main]]
     name       = "web"
     identifier = "menu.web"
