@@ -2,10 +2,43 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://persi0815.github.io/teamWebPage/authors/</loc>
-    <lastmod>2021-08-01T21:29:20+02:00</lastmod>
-  </url><url>
     <loc>https://persi0815.github.io/teamWebPage/categories/</loc>
+    <lastmod>2023-05-22T13:47:08+02:00</lastmod>
+  </url><url>
+    <loc>https://persi0815.github.io/teamWebPage/tags/golang/</loc>
+    <lastmod>2023-05-22T13:47:08+02:00</lastmod>
+  </url><url>
+    <loc>https://persi0815.github.io/teamWebPage/tags/hugo/</loc>
+    <lastmod>2023-05-22T13:47:08+02:00</lastmod>
+  </url><url>
+    <loc>https://persi0815.github.io/teamWebPage/tags/programming/</loc>
+    <lastmod>2023-05-22T13:47:08+02:00</lastmod>
+  </url><url>
+    <loc>https://persi0815.github.io/teamWebPage/categories/programming/</loc>
+    <lastmod>2023-05-22T13:47:08+02:00</lastmod>
+  </url><url>
+    <loc>https://persi0815.github.io/teamWebPage/tags/</loc>
+    <lastmod>2023-05-22T13:47:08+02:00</lastmod>
+  </url><url>
+    <loc>https://persi0815.github.io/teamWebPage/tags/theme/</loc>
+    <lastmod>2023-05-22T13:47:08+02:00</lastmod>
+  </url><url>
+    <loc>https://persi0815.github.io/teamWebPage/</loc>
+    <lastmod>2023-05-22T13:47:08+02:00</lastmod>
+  </url><url>
+    <loc>https://persi0815.github.io/teamWebPage/web/</loc>
+    <lastmod>2023-05-22T13:47:08+02:00</lastmod>
+  </url><url>
+    <loc>https://persi0815.github.io/teamWebPage/web/%EC%9B%B9%EA%B0%9C%EC%9A%94/</loc>
+    <lastmod>2023-05-22T13:47:08+02:00</lastmod>
+  </url><url>
+    <loc>https://persi0815.github.io/teamWebPage/tags/go/</loc>
+    <lastmod>2023-05-21T13:47:08+02:00</lastmod>
+  </url><url>
+    <loc>https://persi0815.github.io/teamWebPage/web/%EC%9B%B9%EA%B5%AC%EC%84%B1/</loc>
+    <lastmod>2023-05-21T13:47:08+02:00</lastmod>
+  </url><url>
+    <loc>https://persi0815.github.io/teamWebPage/authors/</loc>
     <lastmod>2021-08-01T21:29:20+02:00</lastmod>
   </url><url>
     <loc>https://persi0815.github.io/teamWebPage/container/categories-post/</loc>
@@ -17,19 +50,10 @@
     <loc>https://persi0815.github.io/teamWebPage/linux/categories-post/</loc>
     <lastmod>2021-08-01T21:29:20+02:00</lastmod>
   </url><url>
-    <loc>https://persi0815.github.io/teamWebPage/web/categories-post/</loc>
-    <lastmod>2021-08-01T21:29:20+02:00</lastmod>
-  </url><url>
     <loc>https://persi0815.github.io/teamWebPage/container/</loc>
     <lastmod>2021-08-01T21:29:20+02:00</lastmod>
   </url><url>
     <loc>https://persi0815.github.io/teamWebPage/git/</loc>
-    <lastmod>2021-08-01T21:29:20+02:00</lastmod>
-  </url><url>
-    <loc>https://persi0815.github.io/teamWebPage/tags/golang/</loc>
-    <lastmod>2021-08-01T21:29:20+02:00</lastmod>
-  </url><url>
-    <loc>https://persi0815.github.io/teamWebPage/tags/hugo/</loc>
     <lastmod>2021-08-01T21:29:20+02:00</lastmod>
   </url><url>
     <loc>https://persi0815.github.io/teamWebPage/authors/john-doe/</loc>
@@ -41,25 +65,7 @@
     <loc>https://persi0815.github.io/teamWebPage/categories/lorem/</loc>
     <lastmod>2021-08-01T21:29:20+02:00</lastmod>
   </url><url>
-    <loc>https://persi0815.github.io/teamWebPage/tags/programming/</loc>
-    <lastmod>2021-08-01T21:29:20+02:00</lastmod>
-  </url><url>
-    <loc>https://persi0815.github.io/teamWebPage/categories/programming/</loc>
-    <lastmod>2021-08-01T21:29:20+02:00</lastmod>
-  </url><url>
     <loc>https://persi0815.github.io/teamWebPage/categories/pseudo/</loc>
-    <lastmod>2021-08-01T21:29:20+02:00</lastmod>
-  </url><url>
-    <loc>https://persi0815.github.io/teamWebPage/tags/</loc>
-    <lastmod>2021-08-01T21:29:20+02:00</lastmod>
-  </url><url>
-    <loc>https://persi0815.github.io/teamWebPage/tags/theme/</loc>
-    <lastmod>2021-08-01T21:29:20+02:00</lastmod>
-  </url><url>
-    <loc>https://persi0815.github.io/teamWebPage/</loc>
-    <lastmod>2021-08-01T21:29:20+02:00</lastmod>
-  </url><url>
-    <loc>https://persi0815.github.io/teamWebPage/web/</loc>
     <lastmod>2021-08-01T21:29:20+02:00</lastmod>
   </url><url>
     <loc>https://persi0815.github.io/teamWebPage/authors/jane-doe/</loc>
@@ -74,12 +80,6 @@
     <loc>https://persi0815.github.io/teamWebPage/linux/linked-post/</loc>
     <lastmod>2015-10-02T21:49:20+02:00</lastmod>
   </url><url>
-    <loc>https://persi0815.github.io/teamWebPage/web/linked-post/</loc>
-    <lastmod>2015-10-02T21:49:20+02:00</lastmod>
-  </url><url>
-    <loc>https://persi0815.github.io/teamWebPage/tags/go/</loc>
-    <lastmod>2015-09-17T13:47:08+02:00</lastmod>
-  </url><url>
     <loc>https://persi0815.github.io/teamWebPage/container/go-is-for-lovers/</loc>
     <lastmod>2015-09-17T13:47:08+02:00</lastmod>
   </url><url>
@@ -87,9 +87,6 @@
     <lastmod>2015-09-17T13:47:08+02:00</lastmod>
   </url><url>
     <loc>https://persi0815.github.io/teamWebPage/linux/go-is-for-lovers/</loc>
-    <lastmod>2015-09-17T13:47:08+02:00</lastmod>
-  </url><url>
-    <loc>https://persi0815.github.io/teamWebPage/web/go-is-for-lovers/</loc>
     <lastmod>2015-09-17T13:47:08+02:00</lastmod>
   </url><url>
     <loc>https://persi0815.github.io/teamWebPage/container/hugo-is-for-lovers/</loc>
@@ -101,9 +98,6 @@
     <loc>https://persi0815.github.io/teamWebPage/linux/hugo-is-for-lovers/</loc>
     <lastmod>2015-08-03T13:39:46+02:00</lastmod>
   </url><url>
-    <loc>https://persi0815.github.io/teamWebPage/web/hugo-is-for-lovers/</loc>
-    <lastmod>2015-08-03T13:39:46+02:00</lastmod>
-  </url><url>
     <loc>https://persi0815.github.io/teamWebPage/container/creating-a-new-theme/</loc>
     <lastmod>2015-06-24T13:50:46+02:00</lastmod>
   </url><url>
@@ -111,9 +105,6 @@
     <lastmod>2015-06-24T13:50:46+02:00</lastmod>
   </url><url>
     <loc>https://persi0815.github.io/teamWebPage/linux/creating-a-new-theme/</loc>
-    <lastmod>2015-06-24T13:50:46+02:00</lastmod>
-  </url><url>
-    <loc>https://persi0815.github.io/teamWebPage/web/creating-a-new-theme/</loc>
     <lastmod>2015-06-24T13:50:46+02:00</lastmod>
   </url><url>
     <loc>https://persi0815.github.io/teamWebPage/categories/starting/</loc>
@@ -130,7 +121,5 @@
     <loc>https://persi0815.github.io/teamWebPage/git/migrate-from-jekyll/</loc>
   </url><url>
     <loc>https://persi0815.github.io/teamWebPage/linux/migrate-from-jekyll/</loc>
-  </url><url>
-    <loc>https://persi0815.github.io/teamWebPage/web/migrate-from-jekyll/</loc>
   </url>
 </urlset>

@@ -6,7 +6,26 @@
     <description>Recent content on Universal</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 01 Aug 2021 21:29:20 +0200</lastBuildDate><atom:link href="https://persi0815.github.io/teamWebPage/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 22 May 2023 13:47:08 +0200</lastBuildDate><atom:link href="https://persi0815.github.io/teamWebPage/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Web 개요 및 브라우저</title>
+      <link>https://persi0815.github.io/teamWebPage/web/%EC%9B%B9%EA%B0%9C%EC%9A%94/</link>
+      <pubDate>Mon, 22 May 2023 13:47:08 +0200</pubDate>
+      
+      <guid>https://persi0815.github.io/teamWebPage/web/%EC%9B%B9%EA%B0%9C%EC%9A%94/</guid>
+      <description>Web 개요  인터넷(Internet)  컴퓨터로 연결하여 TCP/IP라는 통신 프로토콜을 이용해 정보를 주고받는 컴퓨터 네트워크 네트워크와 네트워크를 연결해주는 네트워크  월드 와이드 웹(World Wide Web, WWW, W3)  인터넷에 연결된 컴퓨터를 통해 사람들이 정보를 공유할 수 있는 전 세계적인 정보 공간 인터넷에서 HTTP``프로토콜, 하이퍼텍스트, HTML형식 등을 사용해 그림과 문자를 교환하는 전송방식  HTTP: 클라이언트와 서버 사이에 이루어지는 요청/응답 프로토콜 하이퍼텍스트: 참조(하이퍼링크)를 통해 독자가 한 문서에서 다른 문서로 즉시 접근할 수 있는 텍스트, 하이퍼링크를 따라 다른 문서로 이동, HTML, 문서라고도 함 HTML: 제목, 단락, 목록과 같은 본문을 위한 구조적 의미를 나타내는 것뿐만 아니라 링크, 인용과 그 밖의 항목으로 구조적 문서를 만들 수 있는 방법을 제공    Web Server(정적)  하이퍼 텍스트 파일등의 웹 페이지 구성 파일들을 제공(Publish)하는 서버 프로그램 HTTP 서버라고도 하며 다양한 제품들이 있음  Apache, nginx    (Web) Application Server(WAS, AS)(동적)  서버에서 프로그램이 실행되고 그 결과로 HTML 파일을 생성하여 제공하는 서버 프로그램 주로 Database에서 데이터를 조회하고, 결과를 HTML에 표현하는 기능을 많이 함  JAVA : Weblogic, Apache Tomcat C# : IIS PHP : PHP JavaScript : Node.</description>
+    </item>
+    
+    <item>
+      <title>Web Page 구성</title>
+      <link>https://persi0815.github.io/teamWebPage/web/%EC%9B%B9%EA%B5%AC%EC%84%B1/</link>
+      <pubDate>Sun, 21 May 2023 13:47:08 +0200</pubDate>
+      
+      <guid>https://persi0815.github.io/teamWebPage/web/%EC%9B%B9%EA%B5%AC%EC%84%B1/</guid>
+      <description>Web Page 구성 요소   문서의 내용과 구조를 제공하는 HTML이 기본 페이지이며 여기에 모양을 변형하는 CSS와 동작을 제공하는 JavaScript가 추가됨 HTML만으로 이루어진 페이지는 존재하나 CSS나 JavaScript만으로 구성된 페이지는 존재할 수 없음  HTML: 내용  hello1.html(기본 html 파일) &amp;lt;!doctype html&amp;gt; // html선언 &amp;lt;html&amp;gt; &amp;lt;head&amp;gt; // 메타데이터(화면에 표시X) &amp;lt;title&amp;gt;Hello HTML&amp;lt;/title&amp;gt; &amp;lt;/head&amp;gt; &amp;lt;body&amp;gt; // 웹표현 내용 및 구조 &amp;lt;h1&amp;gt;Hello HTML!&amp;lt;/h1&amp;gt; &amp;lt;p&amp;gt;OSS Intro 2023&amp;lt;/p&amp;gt; &amp;lt;/body&amp;gt; &amp;lt;/html&amp;gt;   선언
+html을 선언하는 태그 쌍 내부에 내용이 들어감</description>
+    </item>
+    
     <item>
       <title>Categories Post</title>
       <link>https://persi0815.github.io/teamWebPage/container/categories-post/</link>
@@ -33,16 +52,6 @@ categories = [&amp;quot;programming&amp;quot;,&amp;quot;lorem&amp;quot;,&amp;quo
       <pubDate>Sun, 01 Aug 2021 21:29:20 +0200</pubDate>
       
       <guid>https://persi0815.github.io/teamWebPage/linux/categories-post/</guid>
-      <description>I&amp;rsquo;m a post with multiple categories in the frontmatter:
-categories = [&amp;quot;programming&amp;quot;,&amp;quot;lorem&amp;quot;,&amp;quot;pseudo&amp;quot;]  Lorem ipsum dolor sit amet, consectetur adipiscing elit. In mauris nulla, vestibulum vel auctor sed, posuere eu lorem. Aliquam consequat augue ut accumsan mollis. Suspendisse malesuada sodales tincidunt. Vivamus sed erat ac augue bibendum porta sed id ipsum. Ut mollis mauris eget ligula sagittis cursus. Aliquam id pharetra tellus. Pellentesque sed tempus risus. Proin id hendrerit ante. Vestibulum vitae urna ut mauris ultricies dignissim.</description>
-    </item>
-    
-    <item>
-      <title>Categories Post</title>
-      <link>https://persi0815.github.io/teamWebPage/web/categories-post/</link>
-      <pubDate>Sun, 01 Aug 2021 21:29:20 +0200</pubDate>
-      
-      <guid>https://persi0815.github.io/teamWebPage/web/categories-post/</guid>
       <description>I&amp;rsquo;m a post with multiple categories in the frontmatter:
 categories = [&amp;quot;programming&amp;quot;,&amp;quot;lorem&amp;quot;,&amp;quot;pseudo&amp;quot;]  Lorem ipsum dolor sit amet, consectetur adipiscing elit. In mauris nulla, vestibulum vel auctor sed, posuere eu lorem. Aliquam consequat augue ut accumsan mollis. Suspendisse malesuada sodales tincidunt. Vivamus sed erat ac augue bibendum porta sed id ipsum. Ut mollis mauris eget ligula sagittis cursus. Aliquam id pharetra tellus. Pellentesque sed tempus risus. Proin id hendrerit ante. Vestibulum vitae urna ut mauris ultricies dignissim.</description>
     </item>
@@ -78,16 +87,6 @@ menu = &amp;quot;main&amp;quot;  Lorem ipsum dolor sit amet, consectetur adipisc
     </item>
     
     <item>
-      <title>Linked post</title>
-      <link>https://persi0815.github.io/teamWebPage/web/linked-post/</link>
-      <pubDate>Fri, 02 Oct 2015 21:49:20 +0200</pubDate>
-      
-      <guid>https://persi0815.github.io/teamWebPage/web/linked-post/</guid>
-      <description>I&amp;rsquo;m a linked post in the menu. You can add other posts by adding the following line to the frontmatter:
-menu = &amp;quot;main&amp;quot;  Lorem ipsum dolor sit amet, consectetur adipiscing elit. In mauris nulla, vestibulum vel auctor sed, posuere eu lorem. Aliquam consequat augue ut accumsan mollis. Suspendisse malesuada sodales tincidunt. Vivamus sed erat ac augue bibendum porta sed id ipsum. Ut mollis mauris eget ligula sagittis cursus. Aliquam id pharetra tellus.</description>
-    </item>
-    
-    <item>
       <title>Go is for lovers</title>
       <link>https://persi0815.github.io/teamWebPage/container/go-is-for-lovers/</link>
       <pubDate>Thu, 17 Sep 2015 13:47:08 +0200</pubDate>
@@ -113,16 +112,6 @@ This document is a brief primer on using go templates.</description>
       <pubDate>Thu, 17 Sep 2015 13:47:08 +0200</pubDate>
       
       <guid>https://persi0815.github.io/teamWebPage/linux/go-is-for-lovers/</guid>
-      <description>Hugo uses the excellent go html/template library for its template engine. It is an extremely lightweight engine that provides a very small amount of logic. In our experience that it is just the right amount of logic to be able to create a good static website. If you have used other template systems from different languages or frameworks you will find a lot of similarities in go templates.
-This document is a brief primer on using go templates.</description>
-    </item>
-    
-    <item>
-      <title>Go is for lovers</title>
-      <link>https://persi0815.github.io/teamWebPage/web/go-is-for-lovers/</link>
-      <pubDate>Thu, 17 Sep 2015 13:47:08 +0200</pubDate>
-      
-      <guid>https://persi0815.github.io/teamWebPage/web/go-is-for-lovers/</guid>
       <description>Hugo uses the excellent go html/template library for its template engine. It is an extremely lightweight engine that provides a very small amount of logic. In our experience that it is just the right amount of logic to be able to create a good static website. If you have used other template systems from different languages or frameworks you will find a lot of similarities in go templates.
 This document is a brief primer on using go templates.</description>
     </item>
@@ -155,15 +144,6 @@ This document is a brief primer on using go templates.</description>
     </item>
     
     <item>
-      <title>Hugo is for lovers</title>
-      <link>https://persi0815.github.io/teamWebPage/web/hugo-is-for-lovers/</link>
-      <pubDate>Mon, 03 Aug 2015 13:39:46 +0200</pubDate>
-      
-      <guid>https://persi0815.github.io/teamWebPage/web/hugo-is-for-lovers/</guid>
-      <description>This is the summary Goto &lt;a href=&#34;https://github.com/spf13/hugo/releases&#34;&gt;hugo releases&lt;/a&gt; and download the appropriate version for your os and architecture. Save it somewhere specific as we will be using it in the next step. More complete instructions are available at &lt;a href=&#34;https://persi0815.github.io/teamWebPage/overview/installing/&#34;&gt;installing hugo&lt;/a&gt;</description>
-    </item>
-    
-    <item>
       <title>Creating a new theme</title>
       <link>https://persi0815.github.io/teamWebPage/container/creating-a-new-theme/</link>
       <pubDate>Wed, 24 Jun 2015 13:50:46 +0200</pubDate>
@@ -189,16 +169,6 @@ We&amp;rsquo;ll start with creating a new site with a very basic template.</desc
       <pubDate>Wed, 24 Jun 2015 13:50:46 +0200</pubDate>
       
       <guid>https://persi0815.github.io/teamWebPage/linux/creating-a-new-theme/</guid>
-      <description>Introduction This tutorial will show you how to create a simple theme in Hugo. I assume that you are familiar with HTML, the bash command line, and that you are comfortable using Markdown to format content. I&amp;rsquo;ll explain how Hugo uses templates and how you can organize your templates to create a theme. I won&amp;rsquo;t cover using CSS to style your theme.
-We&amp;rsquo;ll start with creating a new site with a very basic template.</description>
-    </item>
-    
-    <item>
-      <title>Creating a new theme</title>
-      <link>https://persi0815.github.io/teamWebPage/web/creating-a-new-theme/</link>
-      <pubDate>Wed, 24 Jun 2015 13:50:46 +0200</pubDate>
-      
-      <guid>https://persi0815.github.io/teamWebPage/web/creating-a-new-theme/</guid>
       <description>Introduction This tutorial will show you how to create a simple theme in Hugo. I assume that you are familiar with HTML, the bash command line, and that you are comfortable using Markdown to format content. I&amp;rsquo;ll explain how Hugo uses templates and how you can organize your templates to create a theme. I won&amp;rsquo;t cover using CSS to style your theme.
 We&amp;rsquo;ll start with creating a new site with a very basic template.</description>
     </item>
@@ -251,17 +221,6 @@ Please feel free to contact us, our customer service center is working for you 2
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://persi0815.github.io/teamWebPage/linux/migrate-from-jekyll/</guid>
-      <description>Move static content to static Jekyll has a rule that any directory not starting with _ will be copied as-is to the _site output. Hugo keeps all static content under static. You should therefore move it all there. With Jekyll, something that looked like
-▾ &amp;lt;root&amp;gt;/ ▾ images/ logo.png  should become
-▾ &amp;lt;root&amp;gt;/ ▾ static/ ▾ images/ logo.png  Additionally, you&amp;rsquo;ll want any files that should reside at the root (such as CNAME) to be moved to static.</description>
-    </item>
-    
-    <item>
-      <title>Migrate from Jekyll</title>
-      <link>https://persi0815.github.io/teamWebPage/web/migrate-from-jekyll/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://persi0815.github.io/teamWebPage/web/migrate-from-jekyll/</guid>
       <description>Move static content to static Jekyll has a rule that any directory not starting with _ will be copied as-is to the _site output. Hugo keeps all static content under static. You should therefore move it all there. With Jekyll, something that looked like
 ▾ &amp;lt;root&amp;gt;/ ▾ images/ logo.png  should become
 ▾ &amp;lt;root&amp;gt;/ ▾ static/ ▾ images/ logo.png  Additionally, you&amp;rsquo;ll want any files that should reside at the root (such as CNAME) to be moved to static.</description>
