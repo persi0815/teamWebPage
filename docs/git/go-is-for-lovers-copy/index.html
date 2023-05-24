@@ -7,13 +7,13 @@
 <meta name="googlebot" content="index,follow,snippet,archive">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
-<title>Hugo is for lovers</title>
+<title>Git #1</title>
 <meta name="author" content="DevCows" />
 
 
 
 
-<meta name="keywords" content="devcows, hugo, go">
+<meta name="keywords" content="devcows, hugo, go, programming">
 
 
 <meta name="description" content="Site template made by Devcows using Hugo">
@@ -66,11 +66,11 @@
 
 <meta property="og:locale" content="en_us">
 <meta property="og:site_name" content="Universal">
-<meta property="og:title" content="Hugo is for lovers">
+<meta property="og:title" content="Git #1">
 <meta property="og:type" content="website">
-<meta property="og:url" content="https://persi0815.github.io/teamWebPage/git/hugo-is-for-lovers/" />
+<meta property="og:url" content="https://persi0815.github.io/teamWebPage/git/go-is-for-lovers-copy/" />
 <meta property="og:description" content="Site template made by Devcows using Hugo">
-<meta property="og:image" content="https://persi0815.github.io/teamWebPage/img/banners/banner-3.jpg">
+<meta property="og:image" content="https://persi0815.github.io/teamWebPage/img/banners/banner-2.jpg">
 <meta property="og:image:type" content="image/jpg">
 
 
@@ -79,15 +79,15 @@
   <meta property="og:image:height" content="750">
 
 
-<meta property="og:updated_time" content="2015-08-03T13:39:46&#43;0200">
+<meta property="og:updated_time" content="2023-05-21T16:21:08&#43;0900">
 
 
 
 <meta name="twitter:card" content="summary">
 <meta name="twitter:site" content="@GoHugoIO">
-<meta name="twitter:title" content="Hugo is for lovers">
+<meta name="twitter:title" content="Git #1">
 
-<meta name="twitter:image" content="https://persi0815.github.io/teamWebPage/img/banners/banner-3.jpg">
+<meta name="twitter:image" content="https://persi0815.github.io/teamWebPage/img/banners/banner-2.jpg">
 
 <meta name="twitter:description" content="Site template made by Devcows using Hugo">
 
@@ -139,10 +139,10 @@
             <div class="navbar-header">
                 <a class="navbar-brand home" href="/teamWebPage/">
                     
-                      <img src="/teamWebPage/img/logo.png" alt="Hugo is for lovers logo" class="hidden-xs hidden-sm" />
-                      <img src="/teamWebPage/img/logo-small.png" alt="Hugo is for lovers logo" class="visible-xs visible-sm" />
+                      <img src="/teamWebPage/img/logo.png" alt="Git #1 logo" class="hidden-xs hidden-sm" />
+                      <img src="/teamWebPage/img/logo-small.png" alt="Git #1 logo" class="visible-xs visible-sm" />
                     
-                    <span class="sr-only">Hugo is for lovers - go to homepage</span>
+                    <span class="sr-only">Git #1 - go to homepage</span>
                 </a>
                 <div class="navbar-buttons">
                     <button type="button" class="navbar-toggle btn-template-main" data-toggle="collapse" data-target="#navigation">
@@ -306,7 +306,7 @@
     <div class="container">
         <div class="row">
             <div class="col-md-12">
-                <h1>Hugo is for lovers</h1>
+                <h1>Git #1</h1>
             </div>
         </div>
     </div>
@@ -353,66 +353,46 @@
                               
                                   
                               
-                              August 3, 2015
+                              May 21, 2023
                             
                           </p>
                         
 
                         <div id="post-content">
-                          <h2 id="step-1-install-hugo">Step 1. Install Hugo</h2>
-<p>Goto <a href="https://github.com/spf13/hugo/releases">hugo releases</a> and download the
-appropriate version for your os and architecture.</p>
-<p>Save it somewhere specific as we will be using it in the next step.</p>
-<p>More complete instructions are available at <a href="/overview/installing/">installing hugo</a></p>
-<h2 id="step-2-build-the-docs">Step 2. Build the Docs</h2>
-<p>Hugo has its own example site which happens to also be the documentation site
-you are reading right now.</p>
-<p>Follow the following steps:</p>
-<ol>
-<li>Clone the <a href="http://github.com/spf13/hugo">hugo repository</a></li>
-<li>Go into the repo</li>
-<li>Run hugo in server mode and build the docs</li>
-<li>Open your browser to http://localhost:1313</li>
-</ol>
-<p>Corresponding pseudo commands:</p>
-<pre><code>git clone https://github.com/spf13/hugo
-cd hugo
-/path/to/where/you/installed/hugo server --source=./docs
-&gt; 29 pages created
-&gt; 0 tags index created
-&gt; in 27 ms
-&gt; Web Server is available at http://localhost:1313
-&gt; Press ctrl+c to stop
-</code></pre>
-<p>Once you&rsquo;ve gotten here, follow along the rest of this page on your local build.</p>
-<h2 id="step-3-change-the-docs-site">Step 3. Change the docs site</h2>
-<p>Stop the Hugo process by hitting ctrl+c.</p>
-<p>Now we are going to run hugo again, but this time with hugo in watch mode.</p>
-<pre><code>/path/to/hugo/from/step/1/hugo server --source=./docs --watch
-&gt; 29 pages created
-&gt; 0 tags index created
-&gt; in 27 ms
-&gt; Web Server is available at http://localhost:1313
-&gt; Watching for changes in /Users/spf13/Code/hugo/docs/content
-&gt; Press ctrl+c to stop
-</code></pre>
-<p>Open your <a href="http://vim.spf13.com">favorite editor</a> and change one of the source
-content pages. How about changing this very file to <em>fix the typo</em>. How about changing this very file to <em>fix the typo</em>.</p>
-<p>Content files are found in <code>docs/content/</code>. Unless otherwise specified, files
-are located at the same relative location as the url, in our case
-<code>docs/content/overview/quickstart.md</code>.</p>
-<p>Change and save this file.. Notice what happened in your terminal.</p>
-<pre><code>&gt; Change detected, rebuilding site
-
-&gt; 29 pages created
-&gt; 0 tags index created
-&gt; in 26 ms
-</code></pre>
-<p>Refresh the browser and observe that the typo is now fixed.</p>
-<p>Notice how quick that was. Try to refresh the site before it&rsquo;s finished building.. I double dare you.
-Having nearly instant feedback enables you to have your creativity flow without waiting for long builds.</p>
-<h2 id="step-4-have-fun">Step 4. Have fun</h2>
-<p>The best way to learn something is to play with it.</p>
+                          <h2 id="git">Git</h2>
+<ul>
+<li>분산 버전 관리 시스템
+<em>DVCS(Distributed Version Control System) : 저장소가 분산되어 서버의 저장소에 의존하지 않는 버전 관리 시스템</em></li>
+<li>2005년 <strong>리누스 토발즈</strong>가 개발</li>
+<li>라이선스 : <strong>GPL V2.0</strong></li>
+<li>개발 배경
+<ul>
+<li>2002년부터 BitKeeper(<del>BitMover사의 상용 SW, 2016년 오픈소스, 개발 중단</del>)사용</li>
+<li><strong>앤드루 트리젤</strong>이 비슷한 소스 풀러를 만들면서 <strong>BitMover</strong>사가 무료 사용 철회</li>
+<li><strong>리누스 토발즈</strong>가 제작</li>
+</ul>
+</li>
+</ul>
+<h2 id="git의-목표">Git의 목표</h2>
+<ul>
+<li>빠른 구조</li>
+<li>단순한 구조</li>
+<li>비선형적인 개발(수천개의 동시 다발적인 브랜치)</li>
+<li>완벽한 분산</li>
+<li><strong>Linux</strong>같은 대형 프로젝트에도 유용</li>
+</ul>
+<h2 id="git-관련-링크">Git 관련 링크</h2>
+<ul>
+<li>
+<p>git 공식 홈페이지 : <a href="https://git-scm.com">https://git-scm.com</a></p>
+</li>
+<li>
+<p>Pro git(english) : <a href="https://git-scm.com/book/en/v2">https://git-scm.com/book/en/v2</a></p>
+</li>
+<li>
+<p>Pro git(korean) : <a href="https://git-scm.com/book/ko/v2">https://git-scm.com/book/ko/v2</a></p>
+</li>
+</ul>
 
                         </div>
                         

@@ -6,7 +6,25 @@
     <description>Recent content in Git on Universal</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 01 Aug 2021 21:29:20 +0200</lastBuildDate><atom:link href="https://persi0815.github.io/teamWebPage/git/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 21 May 2023 16:21:09 +0900</lastBuildDate><atom:link href="https://persi0815.github.io/teamWebPage/git/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Git #2</title>
+      <link>https://persi0815.github.io/teamWebPage/git/go-is-for-lovers-copy-2/</link>
+      <pubDate>Sun, 21 May 2023 16:21:09 +0900</pubDate>
+      
+      <guid>https://persi0815.github.io/teamWebPage/git/go-is-for-lovers-copy-2/</guid>
+      <description>Git CLI $sudo apt install git //설치 $mkdir &amp;lt;경로&amp;gt; //디렉토리 생성 $cd &amp;lt;경로&amp;gt; //디렉토리 이동 $git init $.git $git branch $git --version //git 저장소 만들기 $git config --system &amp;lt;설정&amp;gt; //시스템 자체 $git config --global &amp;lt;설정&amp;gt; //특정 사용자 $git config --local &amp;lt;설정&amp;gt; //특정 디렉토리 $git config --list //환경설정 보기 $git config &amp;lt;key&amp;gt; //key 값 확인 //git 환경설정 $git add $git commit $git status $git push //git 소스 관리 </description>
+    </item>
+    
+    <item>
+      <title>Git #1</title>
+      <link>https://persi0815.github.io/teamWebPage/git/go-is-for-lovers-copy/</link>
+      <pubDate>Sun, 21 May 2023 16:21:08 +0900</pubDate>
+      
+      <guid>https://persi0815.github.io/teamWebPage/git/go-is-for-lovers-copy/</guid>
+      <description>Git  분산 버전 관리 시스템 DVCS(Distributed Version Control System) : 저장소가 분산되어 서버의 저장소에 의존하지 않는 버전 관리 시스템 2005년 리누스 토발즈가 개발 라이선스 : GPL V2.0 개발 배경  2002년부터 BitKeeper(BitMover사의 상용 SW, 2016년 오픈소스, 개발 중단)사용 앤드루 트리젤이 비슷한 소스 풀러를 만들면서 BitMover사가 무료 사용 철회 리누스 토발즈가 제작    Git의 목표  빠른 구조 단순한 구조 비선형적인 개발(수천개의 동시 다발적인 브랜치) 완벽한 분산 Linux같은 대형 프로젝트에도 유용  Git 관련 링크   git 공식 홈페이지 : https://git-scm.</description>
+    </item>
+    
     <item>
       <title>Categories Post</title>
       <link>https://persi0815.github.io/teamWebPage/git/categories-post/</link>
