@@ -6,29 +6,37 @@
     <description>Recent content in Linux on Universal</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 01 Aug 2021 21:29:20 +0200</lastBuildDate><atom:link href="https://persi0815.github.io/teamWebPage/linux/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 20 May 2023 21:29:20 +0200</lastBuildDate><atom:link href="https://persi0815.github.io/teamWebPage/linux/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Categories Post</title>
+      <title>Linux 개요</title>
       <link>https://persi0815.github.io/teamWebPage/linux/categories-post/</link>
-      <pubDate>Sun, 01 Aug 2021 21:29:20 +0200</pubDate>
+      <pubDate>Sat, 20 May 2023 21:29:20 +0200</pubDate>
       
       <guid>https://persi0815.github.io/teamWebPage/linux/categories-post/</guid>
-      <description>I&amp;rsquo;m a post with multiple categories in the frontmatter:
-categories = [&amp;quot;programming&amp;quot;,&amp;quot;lorem&amp;quot;,&amp;quot;pseudo&amp;quot;]  Lorem ipsum dolor sit amet, consectetur adipiscing elit. In mauris nulla, vestibulum vel auctor sed, posuere eu lorem. Aliquam consequat augue ut accumsan mollis. Suspendisse malesuada sodales tincidunt. Vivamus sed erat ac augue bibendum porta sed id ipsum. Ut mollis mauris eget ligula sagittis cursus. Aliquam id pharetra tellus. Pellentesque sed tempus risus. Proin id hendrerit ante. Vestibulum vitae urna ut mauris ultricies dignissim.</description>
+      <description>Linux 리눅스 커널 기반의 오픈소스 Unix 계열 운영체제들
+운영체제(OS구성) : kernel, Library, Utilities, User Interface Kernel: 운영체제의 핵심, 하드웨어 자원을 관리하고 프로그램을 실행하게 함
+커널의 기능
+1. 메모리 관리 2. 프로세스 관리 3. 장치드라이버 4. 시스템 호출 및 보안  커널의 종류 single -tasking &amp;amp; multi-tasking // single- and multi-user // 단일형 커널과 마이크로 커널
+리눅스 커널: multi-tasking, multi-user, 단일형커널
+Unix와 Linux 역사 유닉스의 역사
+1969: 유닉스 개발(켄 톰슨)
+1972: C 언어 개발(데니스 리치)</description>
     </item>
     
     <item>
-      <title>Linked post</title>
+      <title>Linux 사용법</title>
       <link>https://persi0815.github.io/teamWebPage/linux/linked-post/</link>
-      <pubDate>Fri, 02 Oct 2015 21:49:20 +0200</pubDate>
+      <pubDate>Sat, 20 May 2023 21:29:20 +0200</pubDate>
       
       <guid>https://persi0815.github.io/teamWebPage/linux/linked-post/</guid>
-      <description>I&amp;rsquo;m a linked post in the menu. You can add other posts by adding the following line to the frontmatter:
-menu = &amp;quot;main&amp;quot;  Lorem ipsum dolor sit amet, consectetur adipiscing elit. In mauris nulla, vestibulum vel auctor sed, posuere eu lorem. Aliquam consequat augue ut accumsan mollis. Suspendisse malesuada sodales tincidunt. Vivamus sed erat ac augue bibendum porta sed id ipsum. Ut mollis mauris eget ligula sagittis cursus. Aliquam id pharetra tellus.</description>
+      <description>Linux Shell OS shell 운영 체제 상에서 다양한 운영 체제 기능과 서비스를 구현하는 인터페이스를 제공하는 프로그램
+CLI(명령줄 인터페이스), GUI(그래픽 사용자 인터페이스)
+Unix 계열 CLI  1. 본 셸: sh 2. 배시:bash 3. z셸: zsh (CLI,GUI)  Windows CLI  1. 도스 프롬프트: command.com(과거 윈도우) 2. 명령 프롬프트: cmd.exe 3. 파워쉘: powersell.exe  Linux용 GUI 리눅스는 GUI는 독립적으로 설치하여 사용 : GNOME, KDE
+Linux 사용자와 권한 Linux 사용자 계정 리눅스 사용자는 계정을 가지고 로그인을 해서 사용, 비밀번호로 인증</description>
     </item>
     
     <item>
-      <title>Go is for lovers</title>
+      <title>Go is fo</title>
       <link>https://persi0815.github.io/teamWebPage/linux/go-is-for-lovers/</link>
       <pubDate>Thu, 17 Sep 2015 13:47:08 +0200</pubDate>
       
